@@ -1,0 +1,78 @@
+@media screen and (min-width: 0px) {
+
+	.lo3 {
+	font-family: 'Allison',cursive;
+	color: darkred;
+	font-size: 33px;
+	text-align: center;
+}
+    .lo1 {
+	font-family: 'Allison',cursive;
+	color: grey;
+	font-size: 40px;
+	text-align: center;
+}
+   section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+  .red {
+	background: darkred;
+	color: black;
+	font-size: 40px;
+	border: solid 1px black;
+}
+.p {
+	text-align: center;
+	font-size: 38px;
+}
+
+.p1 {
+	text-align: center;
+	font-size: 30px;
+	color: grey;
+}
+
+}
+
+
+
+@media screen and (min-width: 1024px){
+	@media screen and (min-width: 768px){
+	.lo3 {
+	font-family: 'Allison',cursive;
+	color: darkred;
+	font-size: 26px;
+	text-align: center;
+}
+    .lo1 {
+	font-family: 'Allison',cursive;
+	color: grey;
+	font-size: 30px;
+	text-align: center;
+}
+   section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+  .red {
+	background: darkred;
+	color: black;
+	font-size: 30px;
+	border: solid 1px black;
+}
+.p {
+	text-align: center;
+	font-size: 1.4rem;
+}
+
+.p1 {
+	text-align: center;
+	font-size: 22px;
+	color: grey;
+}
+}

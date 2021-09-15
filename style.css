@@ -1,0 +1,93 @@
+.lo {
+	font-family: 'Allison', cursive;;
+	font-size: 4rem;
+	color: darkred;
+	text-align: center;
+
+}
+
+.lo1 {
+	font-family: 'Allison',cursive;
+	color: grey;
+	font-size: 15px;
+	text-align: center;
+}
+
+.lo2 {
+	font-family: 'Allison',cursive;
+	color: darkred;
+	font-size: 3rem;
+	
+}
+
+.lo3 {
+	font-family: 'Allison',cursive;
+	color: darkred;
+	font-size: 15px;
+	text-align: center;
+}
+
+
+.topo {
+	position: top;
+}
+	
+} 
+
+.carrossel {
+	font-family:'Allison', cursive ;
+	font-size: 1.5rem;
+}
+
+section {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.menor {
+	object-fit: cover;
+	object-position: 0 80%;
+	height: 200px;
+}
+
+
+
+.red {
+	background: darkred;
+	color: black;
+	border: solid 1px black;
+}
+
+body {
+	background: black;
+}
+
+.grey {
+	background: grey;
+}
+
+
+footer {
+	background: darkred;
+}
+
+.p {
+	text-align: center;
+}
+
+.p1 {
+	text-align: center;
+	font-size: 1rem;
+	color: grey;
+}
+
+.fica {
+	position: relative;
+	top: fixed;
+
+}
+
+.vaicabe {
+	max-height: 400px;
+}
